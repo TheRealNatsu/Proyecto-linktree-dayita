@@ -40,3 +40,21 @@ header {
     border-radius: 0.5rem;
     box-shadow: 0.3rem 0.3rem 0.5rem #a5a;
 }
+
+footer {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    position: absolute;
+    bottom: 0;
+}
+
+.foot_el {
+    background-color: #a5a;
+    text-align: center;
+    font-size: 1rem;
+    border-radius: 5px;
+    padding: 0.5rem;
+}
