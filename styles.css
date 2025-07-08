@@ -1,8 +1,9 @@
 body {
     font-size: 10px;
+    height: 100vh;
     font-family: sans-serif;
     background-color: blueviolet;
-    background: radial-gradient(blueviolet, #aaa);
+    background: radial-gradient(blueviolet, #460770);
     margin: 0;
     padding: 0;
 }
